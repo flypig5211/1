@@ -1,0 +1,4041 @@
+finger:
+- cmsname: seeyon
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - /seeyon/USER-DATA/IMAGES/LOGIN/login.gif
+- cmsname: seeyon
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - /seeyon/common/
+- cmsname: Spring env
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - servletContextInitParams
+- cmsname: 微三云管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - WSY_logo
+  - 管理系统 MANAGEMENT SYSTEM
+- cmsname: Spring env
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - logback
+- cmsname: Weblogic
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Error 404--Not Found
+- cmsname: Weblogic
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Error 403--
+- cmsname: Weblogic
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/console/framework/skins/wlsconsole/images/login_WebLogic_branding.png"
+- cmsname: Weblogic
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Welcome to Weblogic Application Server
+- cmsname: Weblogic
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<i>Hypertext Transfer Protocol -- HTTP/1.1</i>"
+- cmsname: Sangfor SSL VPN
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/por/login_psw.csp"
+- cmsname: Sangfor SSL VPN
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - loginPageSP/loginPrivacy.js
+- cmsname: e-mobile
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - weaver,e-mobile
+- cmsname: ecology
+  typename: header
+  method: GET
+  request: /
+  response:
+  - ecology_JSessionid
+- cmsname: Shiro
+  typename: header
+  method: GET
+  request: /
+  response:
+  - rememberMe=
+- cmsname: Shiro
+  typename: header
+  method: GET
+  request: 'cookie:rememberMe=1'
+  response:
+  - "=deleteMe"
+- cmsname: 泛微云桥 e-Bridge
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - wx.weaver
+- cmsname: 泛微 OA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1578525679'
+- cmsname: 泛微云桥 e-Bridge
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - e-Bridge
+- cmsname: Swagger UI
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Swagger UI
+- cmsname: Ruijie
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 4008 111 000
+- cmsname: Huawei SMC
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Script/SmcScript.js?version=
+- cmsname: H3C Router
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/wnm/ssl/web/frame/login.html"
+- cmsname: Cisco SSLVPN
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/+CSCOE+/logon.html"
+- cmsname: 通达OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/images/tongda.ico"
+- cmsname: 通达OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Office Anywhere
+- cmsname: 通达OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 通达OA
+  - login
+- cmsname: 深信服 waf
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - rsa.js
+  - commonFunction.js
+- cmsname: 深信服 waf
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Redirect to...
+  - "/LogInOut.php"
+- cmsname: 网御 vpn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/vpn/common/js/leadsec.js"
+  - "/vpn/user/common/custom/auth_home.css"
+- cmsname: 启明星辰天清汉马USG防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/cgi-bin/webui?op=get_product_model"
+- cmsname: 蓝凌 OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - sys/ui/extend/theme/default/style/icon.css
+  - sys/ui/extend/theme/default/style/profile.css
+- cmsname: 深信服上网行为管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - utccjfaewjb = function(str, key)
+- cmsname: 深信服上网行为管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - document.write(WRFWWCSFBXMIGKRKHXFJ
+- cmsname: 深信服应用交付报表系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/reportCenter/index.php?cls_mode=cluster_mode_others"
+- cmsname: 群晖 NAS
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Synology
+  - webman/
+- cmsname: 金蝶云星空
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - HTML5/content/themes/kdcss.min.css
+- cmsname: 金蝶云星空
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/ClientBin/Kingdee.BOS.XPF.App.xap"
+- cmsname: CoreMail
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - coremail/common
+- cmsname: 启明星辰天清汉马USG防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 天清汉马USG
+- cmsname: Jboss
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - jboss.css
+- cmsname: Gitlab
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - assets/gitlab_logo
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 入口校验失败
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 没有找到站点
+  - 可能原因
+  - CDN产品
+  - Web服务
+  - 检查端口是否正确
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>恭喜，站点创建成功"
+  - 面板系统后台
+  - 系统自动生成
+- cmsname: DouPHP
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Powered by DouPHP
+  - DouPHP
+  - theme
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 扫码登录更安全
+  - bt.cn
+  - "/login"
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 站点创建成功
+  - bt.cn
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 站点创建成功
+  - 宝塔
+- cmsname: 禅道
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - self.location
+  - Lw==
+- cmsname: 禅道
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/theme/default/images/main/zt-logo.png"
+- cmsname: 禅道
+  typename: header
+  method: GET
+  request: /
+  response:
+  - zentaosid
+- cmsname: 用友软件
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - UFIDA Software CO.LTD all rights reserved
+- cmsname: 用友NC
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - logo/images/ufida_nc.png
+  - 用友NC
+- cmsname: YONYOU NC
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - uclient.yonyou.com
+  - UClient
+- cmsname: 宝塔-BT.cn
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 宝塔Linux面板
+- cmsname: RabbitMQ
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>RabbitMQ Management</title>"
+- cmsname: Zabbix
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - zabbix
+  - Zabbix SIA
+- cmsname: 联软准入
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 网络准入
+  - leagsoft
+  - redirect
+- cmsname: 列目录
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Index of /
+- cmsname: 列目录
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - " - /</title>"
+- cmsname: 浪潮服务器IPMI管理口
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - img/inspur_logo.png
+  - Management System
+- cmsname: RegentApi_v2.0
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - RegentApi_v2.0
+- cmsname: Tomcat默认页面
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/manager/status"
+  - "/manager/html"
+- cmsname: slack-instance
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '99395752'
+- cmsname: spring-boot
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '116323821'
+- cmsname: Jenkins
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '81586312'
+- cmsname: Cnservers LLC
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-235701012"
+- cmsname: Atlassian
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '743365239'
+- cmsname: Chainpoint
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2128230701'
+- cmsname: LaCie
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1277814690"
+- cmsname: Parse
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '246145559'
+- cmsname: Atlassian
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '628535358'
+- cmsname: JIRA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '855273746'
+- cmsname: Avigilon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1318124267'
+- cmsname: Atlassian – Confluence
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-305179312"
+- cmsname: OpenStack
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '786533217'
+- cmsname: Pi Star
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '432733105'
+- cmsname: Atlassian
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '705143395'
+- cmsname: Angular IO (AngularJS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1255347784"
+- cmsname: XAMPP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1275226814"
+- cmsname: React
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2009722838"
+- cmsname: Atlassian – JIRA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '981867722'
+- cmsname: OpenStack
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-923088984"
+- cmsname: Aplikasi
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '494866796'
+- cmsname: Ubiquiti Aircube
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1249285083'
+- cmsname: Atlassian – Bamboo
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1379982221"
+- cmsname: Exostar – Managed Access Gateway
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '420473080'
+- cmsname: Atlassian – Confluence
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1642532491"
+- cmsname: Cisco Meraki
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '163842882'
+- cmsname: Archivematica
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1378182799"
+- cmsname: TCN
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-702384832"
+- cmsname: CX
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-532394952"
+- cmsname: Ace
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-183163807"
+- cmsname: Atlassian – JIRA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '552727997'
+- cmsname: NetData
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1302486561'
+- cmsname: OpenGeo Suite
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-609520537"
+- cmsname: Dgraph Ratel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1961046099"
+- cmsname: Atlassian – JIRA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1581907337"
+- cmsname: Material Dashboard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1913538826'
+- cmsname: Form.io
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1319699698'
+- cmsname: Kubeflow
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1203021870"
+- cmsname: netdata dashboard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-182423204"
+- cmsname: CapRover
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '988422585'
+- cmsname: WiJungle
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2113497004'
+- cmsname: Onera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1234311970'
+- cmsname: SmartPing
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '430582574'
+- cmsname: OpenStack
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1232596212'
+- cmsname: netdata dashboard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1585145626'
+- cmsname: FRITZ!Box
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-219752612"
+- cmsname: fortinet-forticlient
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '945408572'
+- cmsname: Ubiquiti – AirOS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-697231354"
+- cmsname: Fortinet – Forticlient
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '945408572'
+- cmsname: Outlook Web Application
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1768726119'
+- cmsname: Huawei – Claro
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2109473187'
+- cmsname: ASUS AiCloud
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '552592949'
+- cmsname: SonicWALL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '631108382'
+- cmsname: Google
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '708578229'
+- cmsname: Plesk
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-134375033"
+- cmsname: Dahua Storm (IP Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2019488876'
+- cmsname: Huawei – ADSL/Router
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1395400951"
+- cmsname: Sophos Cyberoam (appliance)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1601194732'
+- cmsname: LANCOM Systems
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-325082670"
+- cmsname: Plesk
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1050786453"
+- cmsname: TilginAB (HomeGateway)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1346447358"
+- cmsname: Supermicro Intelligent Management (IPMI)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1410610129'
+- cmsname: Zyxel ZyWALL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-440644339"
+- cmsname: Dell SonicWALL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '363324987'
+- cmsname: Ubiquiti Login Portals
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1446794564"
+- cmsname: Sophos User Portal/VPN Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1045696447'
+- cmsname: Apache Tomcat
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-297069493"
+- cmsname: OpenVPN
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '396533629'
+- cmsname: Cyberoam
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1462981117'
+- cmsname: ASP.net favicon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1772087922'
+- cmsname: Technicolor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1594377337'
+- cmsname: Vodafone (Technicolor)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '165976831'
+- cmsname: UBNT Router UI
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1677255344"
+- cmsname: Intelbras Wireless
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-359621743"
+- cmsname: Kerio Connect (Webmail)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-677167908"
+- cmsname: BIG-IP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '878647854'
+- cmsname: Microsoft OWA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '442749392'
+- cmsname: pfSense
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1405460984'
+- cmsname: iKuai Networks
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-271448102"
+- cmsname: Dlink Webcam
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '31972968'
+- cmsname: 3CX Phone System
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '970132176'
+- cmsname: Bluehost
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1119613926"
+- cmsname: Sangfor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '123821839'
+- cmsname: ZTE Corporation (Gateway/Appliance)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '459900502'
+- cmsname: Ruckus Wireless
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2069844696"
+- cmsname: Bitnami
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1607644090"
+- cmsname: Juniper Device Manager
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2141724739'
+- cmsname: Technicolor Gateway
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1835479497'
+- cmsname: Gitlab
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1278323681'
+- cmsname: NETASQ - Secure / Stormshield
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1929912510"
+- cmsname: VMware Horizon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1255992602"
+- cmsname: VMware Horizon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1895360511'
+- cmsname: VMware Horizon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-991123252"
+- cmsname: Vmware Secure File Transfer
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1642701741'
+- cmsname: SAP Netweaver
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-266008933"
+- cmsname: 'SAP ID Service: Log On'
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1967743928"
+- cmsname: SAP Conversational AI
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1347937389'
+- cmsname: Palo Alto Login Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '602431586'
+- cmsname: Palo Alto Networks
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-318947884"
+- cmsname: Outlook Web Application
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1356662359'
+- cmsname: Webmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1453890729'
+- cmsname: Docker
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1814887000"
+- cmsname: Docker
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1937209448'
+- cmsname: Amazon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1544605732"
+- cmsname: Amazon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '716989053'
+- cmsname: phpMyAdmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1010568750"
+- cmsname: Zhejiang Uniview Technologies Co.
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1240222446"
+- cmsname: ISP Manager
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-986678507"
+- cmsname: AXIS (network cameras)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1616143106"
+- cmsname: Roundcube Webmail
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-976235259"
+- cmsname: UniFi Video Controller (airVision)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '768816037'
+- cmsname: pfSense
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1015545776'
+- cmsname: Freebox OS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1838417872'
+- cmsname: Keenetic
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '547282364'
+- cmsname: Sierra Wireless Ace Manager (Airlink)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1571472432"
+- cmsname: Synology DiskStation
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '149371702'
+- cmsname: INSTAR IP Cameras
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1169314298"
+- cmsname: Webmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1038557304"
+- cmsname: Octoprint (3D printer)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1307375944'
+- cmsname: Webmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1280907310'
+- cmsname: Vesta Hosting Control Panel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1954835352'
+- cmsname: Farming Simulator Dedicated Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '509789953'
+- cmsname: Residential Gateway
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1933493443"
+- cmsname: cPanel Login
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1993518473'
+- cmsname: Arris
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1477563858"
+- cmsname: PLEX Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-895890586"
+- cmsname: Dlink Webcam
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1354933624"
+- cmsname: Deluge
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '944969688'
+- cmsname: Webmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '479413330'
+- cmsname: Cambium Networks
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-435817905"
+- cmsname: Plesk
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-981606721"
+- cmsname: Dahua Storm (IP Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '833190513'
+- cmsname: Parallels Plesk Panel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-652508439"
+- cmsname: Fireware Watchguard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-569941107"
+- cmsname: Shock&Innovation!! netis setup
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1326164945'
+- cmsname: cacaoweb
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1738184811"
+- cmsname: Loxone (Automation)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '904434662'
+- cmsname: HP Printer / Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '905744673'
+- cmsname: Netflix
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '902521196'
+- cmsname: Linksys Smart Wi-Fi
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2063036701"
+- cmsname: lwIP (A Lightweight TCP/IP stack)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1205024243"
+- cmsname: Hitron Technologies
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '607846949'
+- cmsname: Dahua Storm (DVR)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1281253102'
+- cmsname: MOBOTIX Camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '661332347'
+- cmsname: Blue Iris (Webcam)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-520888198"
+- cmsname: Vigor Router
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '104189364'
+- cmsname: Alibaba Cloud (Block Page)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1227052603'
+- cmsname: DD WRT (DD-WRT milli_httpd)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '252728887'
+- cmsname: Mitel Networks (MiCollab End User Portal)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1922044295"
+- cmsname: Dlink Webcam
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1221759509'
+- cmsname: Dlink Router
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1037387972'
+- cmsname: PRTG Network Monitor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-655683626"
+- cmsname: Elastic (Database)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1611729805'
+- cmsname: Dlink Webcam
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1144925962'
+- cmsname: Wildfly
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1666561833"
+- cmsname: Cisco Meraki Dashboard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '804949239'
+- cmsname: Workday
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-459291760"
+- cmsname: JustHost
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1734609466'
+- cmsname: Baidu (IP error page)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1507567067"
+- cmsname: Intelbras SA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2006716043'
+- cmsname: Yii PHP Framework (Default Favicon)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1298108480"
+- cmsname: truVision NVR (interlogix)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1782271534'
+- cmsname: Redmine
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '603314'
+- cmsname: phpMyAdmin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-476231906"
+- cmsname: Cisco (eg:Conference Room Login Page)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-646322113"
+- cmsname: Jetty 404
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-629047854"
+- cmsname: Luma Surveillance
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1351901211"
+- cmsname: Parallels Plesk Panel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-519765377"
+- cmsname: HP Printer / Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2144363468"
+- cmsname: Metasploit
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-127886975"
+- cmsname: Metasploit
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1139788073'
+- cmsname: Metasploit
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1235192469"
+- cmsname: ALIBI NVR
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1876585825'
+- cmsname: Sangfor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1810847295"
+- cmsname: 'Websockets test page (eg: port 5900)'
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-291579889"
+- cmsname: macOS Server (Apple)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1629518721'
+- cmsname: OpenRG
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-986816620"
+- cmsname: Cisco Router
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-299287097"
+- cmsname: Sangfor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1926484046"
+- cmsname: HeroSpeed Digital Technology Co. (NVR/IPC/XVR)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-873627015"
+- cmsname: Nomadix Access Gateway
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2071993228'
+- cmsname: Gitlab
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '516963061'
+- cmsname: Magento
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-38580010"
+- cmsname: MK-AUTH
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1490343308'
+- cmsname: Shoutcast Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-632583950"
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '95271369'
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1476335317'
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-842192932"
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '105083909'
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '240606739'
+- cmsname: FireEye
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2121539357'
+- cmsname: Adobe Campaign Classic
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-333791179"
+- cmsname: XAMPP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1437701105"
+- cmsname: Niagara Web Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-676077969"
+- cmsname: Technicolor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2138771289"
+- cmsname: Hitron Technologies Inc.
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '711742418'
+- cmsname: IBM Notes
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '728788645'
+- cmsname: Barracuda
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1436966696'
+- cmsname: ServiceNow
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '86919334'
+- cmsname: Openfire Admin Console
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1211608009'
+- cmsname: HP iLO
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2059618623'
+- cmsname: Sunny WebBox
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1975413433'
+- cmsname: ZyXEL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '943925975'
+- cmsname: Huawei
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '281559989'
+- cmsname: Tenda Web Master
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2145085239"
+- cmsname: Prometheus Time Series Collection and Processing Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1399433489"
+- cmsname: wdCP 云主机面板
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1786752597'
+- cmsname: Domoticz (Home Automation)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '90680708'
+- cmsname: Tableau
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1441956789"
+- cmsname: openWRT Luci
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-675839242"
+- cmsname: Ubiquiti – AirOS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1020814938'
+- cmsname: MDaemon Webmail
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-766957661"
+- cmsname: Teltonika
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '119741608'
+- cmsname: Entrolink
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1973665246'
+- cmsname: WindRiver-WebServer
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '74935566'
+- cmsname: Microhard Systems
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1723752240"
+- cmsname: Skype
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1807411396"
+- cmsname: Teltonika
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1612496354"
+- cmsname: Eltex (Router)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1877797890'
+- cmsname: bintec elmeg
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-375623619"
+- cmsname: SyncThru Web Service (Printers)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1483097076'
+- cmsname: BoaServer
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1169183049'
+- cmsname: Securepoint
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1051648103'
+- cmsname: Moodle
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-438482901"
+- cmsname: RADIX
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1492966240"
+- cmsname: CradlePoint Technology (Router)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1466912879'
+- cmsname: Drupal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-167656799"
+- cmsname: Blackboard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1593651747"
+- cmsname: Jupyter Notebook
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-895963602"
+- cmsname: HostMonster - Web hosting
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-972810761"
+- cmsname: D-Link (router/network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1703788174'
+- cmsname: Rocket Chat
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '225632504'
+- cmsname: mofinetwork
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1702393021"
+- cmsname: Zabbix
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '892542951'
+- cmsname: TOTOLINK (network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '547474373'
+- cmsname: Ossia (Provision SR) | Webcam/IP Camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-374235895"
+- cmsname: cPanel Login
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1544230796'
+- cmsname: D-Link (router/network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '517158172'
+- cmsname: Jeedom (home automation)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '462223993'
+- cmsname: JBoss Application Server 7
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '937999361'
+- cmsname: Niagara Web Server / Tridium
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1991562061'
+- cmsname: Solarwinds Serv-U FTP Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '812385209'
+- cmsname: Aruba (Virtual Controller)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1142227528'
+- cmsname: Dell
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1153950306"
+- cmsname: RemObjects SDK / Remoting SDK for .NET HTTP Server Microsoft
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '72005642'
+- cmsname: Zyxel ZyWALL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-484708885"
+- cmsname: VisualSVN Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '706602230'
+- cmsname: Jboss
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-656811182"
+- cmsname: STARFACE VoIP Software
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-332324409"
+- cmsname: Netis (network devices)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-594256627"
+- cmsname: WHM
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-649378830"
+- cmsname: Tandberg
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '97604680'
+- cmsname: Ghost (CMS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1015932800"
+- cmsname: Avtech IP Surveillance (Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-194439630"
+- cmsname: Liferay Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '129457226'
+- cmsname: Parallels Plesk Panel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-771764544"
+- cmsname: Odoo
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-617743584"
+- cmsname: Polycom
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '77044418'
+- cmsname: Cake PHP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '980692677'
+- cmsname: Exacq
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '476213314'
+- cmsname: CheckPoint
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '794809961'
+- cmsname: Ubiquiti UNMS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1157789622'
+- cmsname: cPanel Login
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1244636413'
+- cmsname: WorldClient for Mdaemon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1985721423'
+- cmsname: Netport Software (DSL)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1124868062"
+- cmsname: f5 Big IP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-335242539"
+- cmsname: Mailcow
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2146763496'
+- cmsname: QNAP NAS Virtualization Station
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1041180225"
+- cmsname: Netgear
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1319025408"
+- cmsname: Gogs
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '917966895'
+- cmsname: Trendnet IP camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '512590457'
+- cmsname: Asustor
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1678170702'
+- cmsname: Dahua
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1466785234"
+- cmsname: Discuz!
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-505448917"
+- cmsname: Discuz!
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Discuz!
+  - Comsenz
+  - cache/
+- cmsname: wdCP cloud host management system
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '255892555'
+- cmsname: Joomla
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1627330242'
+- cmsname: SmarterMail
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1935525788"
+- cmsname: Seafile
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-12700016"
+- cmsname: bintec elmeg
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1770799630'
+- cmsname: NETGEAR ReadyNAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-137295400"
+- cmsname: iPECS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-195508437"
+- cmsname: bet365
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2116540786"
+- cmsname: Reolink
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-38705358"
+- cmsname: idera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-450254253"
+- cmsname: Proofpoint
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1630354993"
+- cmsname: Kerio Connect WebMail
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1678298769"
+- cmsname: WorldClient for Mdaemon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-35107086"
+- cmsname: Realtek
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2055322029'
+- cmsname: Ruijie Networks (Login)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-692947551"
+- cmsname: Askey Cable Modem
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1710631084"
+- cmsname: Askey Cable Modem
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '89321398'
+- cmsname: JAWS Web Server (IP Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '90066852'
+- cmsname: JAWS Web Server (IP Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '768231242'
+- cmsname: Homegrown Website Hosting
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-421986013"
+- cmsname: Technicolor / Thomson Speedtouch (Network / ADSL)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '156312019'
+- cmsname: DVR (Korean)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-560297467"
+- cmsname: Joomla
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1950415971"
+- cmsname: TP-LINK (Network Device)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1842351293'
+- cmsname: Salesforce
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1433417005'
+- cmsname: Apache Haus
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-632070065"
+- cmsname: Untangle
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1103599349'
+- cmsname: Shenzhen coship electronics co.
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '224536051'
+- cmsname: D-Link (router/network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1038500535'
+- cmsname: D-Link (camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-355305208"
+- cmsname: Kibana
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-267431135"
+- cmsname: Kibana
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-759754862"
+- cmsname: Kibana
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1200737715"
+- cmsname: Kibana
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '75230260'
+- cmsname: Kibana
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1668183286'
+- cmsname: Intelbras SA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '283740897'
+- cmsname: Icecast Streaming Media Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1424295654'
+- cmsname: NEC WebPro
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1922032523'
+- cmsname: Vivotek (Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1654229048"
+- cmsname: Microsoft IIS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1414475558"
+- cmsname: Univention Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1697334194"
+- cmsname: Portainer (Docker Management)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1424036600"
+- cmsname: NOS Router
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-831826827"
+- cmsname: Tongda
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-759108386"
+- cmsname: CrushFTP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1022206565"
+- cmsname: Endian Firewall
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1225484776"
+- cmsname: Kerio Control Firewall
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-631002664"
+- cmsname: Ferozo Panel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2072198544'
+- cmsname: Kerio Control Firewall
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-466504476"
+- cmsname: Cafe24 (Korea)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1251810433'
+- cmsname: Mautic (Open Source Marketing Automation)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1273982002'
+- cmsname: NETIASPOT (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-978656757"
+- cmsname: Multilaser
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '916642917'
+- cmsname: Canvas LMS (Learning Management)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '575613323'
+- cmsname: IBM Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1726027799'
+- cmsname: ADB Broadband S.p.A. (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-587741716"
+- cmsname: ARRIS (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-360566773"
+- cmsname: Huawei (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-884776764"
+- cmsname: WAMPSERVER
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '929825723'
+- cmsname: Seagate Technology (NAS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '240136437'
+- cmsname: UPC Ceska Republica (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1911253822'
+- cmsname: Flussonic (Video Streaming)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-393788031"
+- cmsname: Joomla
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '366524387'
+- cmsname: WAMPSERVER
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '443944613'
+- cmsname: Metabase
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1953726032'
+- cmsname: D-Link (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2031183903"
+- cmsname: MobileIron
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '545827989'
+- cmsname: MobileIron
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '967636089'
+- cmsname: MobileIron
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '362091310'
+- cmsname: MobileIron
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2086228042'
+- cmsname: CommuniGate
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1588746893"
+- cmsname: ZTE (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1427976651'
+- cmsname: InfiNet Wireless | WANFleX (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1648531157'
+- cmsname: Mersive Solstice
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '938616453'
+- cmsname: Université Toulouse 1 Capitole
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1632780968'
+- cmsname: Digium (Switchvox)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2068154487'
+- cmsname: PowerMTA monitoring
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1788112745"
+- cmsname: SmartLAN/G
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-644617577"
+- cmsname: Checkpoint (Gaia)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1822098181"
+- cmsname: УТМ (Federal Service for Alcohol Market Regulation | Russia)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1131689409"
+- cmsname: MailWizz
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2127152956'
+- cmsname: RabbitMQ
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1064742722'
+- cmsname: openmediavault (NAS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-693082538"
+- cmsname: openWRT Luci
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1941381095'
+- cmsname: Honeywell
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '903086190'
+- cmsname: BOMGAR Support Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '829321644'
+- cmsname: Nuxt JS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1442789563"
+- cmsname: RoundCube Webmail
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2140379067"
+- cmsname: D-Link (camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1897829998"
+- cmsname: Netgear (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1047213685'
+- cmsname: SonarQube
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1485257654'
+- cmsname: Lupus Electronics XT
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-299324825"
+- cmsname: Vanderbilt SPC
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1162730477"
+- cmsname: VZPP Plesk
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1268095485"
+- cmsname: Baidu
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1118684072'
+- cmsname: ownCloud
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1616115760"
+- cmsname: Sentora
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2054889066"
+- cmsname: Alfresco
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1333537166'
+- cmsname: Digital Keystone (DK)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-373674173"
+- cmsname: WISPR (Airlan)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-106646451"
+- cmsname: Synology VPN Plus
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1235070469'
+- cmsname: Sentry
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2063428236'
+- cmsname: WatchGuard
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '15831193'
+- cmsname: Web Client Pro
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-956471263"
+- cmsname: Tecvoz
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1452159623"
+- cmsname: MDaemon Remote Administration
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '99432374'
+- cmsname: Paradox IP Module
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '727253975'
+- cmsname: DokuWiki
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-630493013"
+- cmsname: Sails
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '552597979'
+- cmsname: FastPanel Hosting
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '774252049'
+- cmsname: C-Lodop
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-329747115"
+- cmsname: Jamf Pro Login
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1262005940'
+- cmsname: StruxureWare (Schneider Electric)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '979634648'
+- cmsname: Axcient Replibit Management Server
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '475379699'
+- cmsname: Twonky Server (Media Streaming)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-878891718"
+- cmsname: Windows Azure
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2125083197"
+- cmsname: ISP Manager (Web Hosting Panel)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1151675028"
+- cmsname: JupyterHub
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1248917303'
+- cmsname: 'CenturyLink Modem GUI Login (eg: Technicolor)'
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1908556829"
+- cmsname: Tecvoz
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1059329877'
+- cmsname: OPNsense
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1148190371"
+- cmsname: Ligowave (network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1467395679'
+- cmsname: Rumpus
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1528414776"
+- cmsname: Spiceworks (panel)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2117390767"
+- cmsname: TeamCity
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1944119648"
+- cmsname: INSTAR Full-HD IP-Camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1748763891"
+- cmsname: GPON Home Gateway
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '251106693'
+- cmsname: Alienvault
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1779611449"
+- cmsname: Arbor Networks
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1745552996"
+- cmsname: Accrisoft
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1275148624"
+- cmsname: Yasni
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-178685903"
+- cmsname: Slack
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-43161126"
+- cmsname: innovaphone
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '671221099'
+- cmsname: Shinobi (CCTV)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-10974981"
+- cmsname: TP-LINK (Network Device)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1274078387'
+- cmsname: Siemens OZW772
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-336242473"
+- cmsname: Lantronix (Spider)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '882208493'
+- cmsname: ClaimTime (Ramsell Public Health & Safety)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-687783882"
+- cmsname: Surfilter SSL VPN Portal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-590892202"
+- cmsname: Kyocera (Printer)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-50306417"
+- cmsname: Lucee!
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '784872924'
+- cmsname: Ricoh
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1135165421'
+- cmsname: Handle Proxy
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '926501571'
+- cmsname: Metasploit
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '579239725'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-689902428"
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-600508822"
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '656868270'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2056503929"
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1656695885"
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '331870709'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1241049726'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '998138196'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '322531336'
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-401934945"
+- cmsname: iomega NAS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-613216179"
+- cmsname: Chef Automate
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-276759139"
+- cmsname: Gargoyle Router Management Utility
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1862132268'
+- cmsname: KeepItSafe Management Console
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1738727418"
+- cmsname: Entronix Energy Management Platform
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-368490461"
+- cmsname: OpenProject
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1836828108'
+- cmsname: Unified Management Console (Polycom)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1775553655"
+- cmsname: 'Moxapass ioLogik Remote Ethernet I/O Server '
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '381100274'
+- cmsname: HFS (HTTP File Server)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2124459909'
+- cmsname: HFS (HTTP File Server)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '731374291'
+- cmsname: Traccar GPS tracking
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-335153896"
+- cmsname: IW
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '896412703'
+- cmsname: Wordpress Under Construction Icon
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '191654058'
+- cmsname: Combivox
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-342262483"
+- cmsname: NetComWireless (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '5542029'
+- cmsname: Elastic (Database)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1552860581'
+- cmsname: Drupal
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1174841451'
+- cmsname: truVision (NVR)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1093172228"
+- cmsname: SpamExperts
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1688698891"
+- cmsname: Sonatype Nexus Repository Manager
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1546574541"
+- cmsname: iDirect Canada (Network Management)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-256828986"
+- cmsname: OpenERP (now known as Odoo)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1966198264'
+- cmsname: PKP (OpenJournalSystems) Public Knowledge Project
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '2099342476'
+- cmsname: LiquidFiles
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '541087742'
+- cmsname: ZyXEL (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-882760066"
+- cmsname: Universal Devices (UD)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '16202868'
+- cmsname: Huawei (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '987967490'
+- cmsname: Gitea
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1969970750'
+- cmsname: TC-Group
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1734573358"
+- cmsname: Deluge Web UI
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1589842876"
+- cmsname: AMH 云主机面板
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1822002133'
+- cmsname: OTRS (Open Ticket Request System)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2006308185"
+- cmsname: Bosch Security Systems (Camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1702769256"
+- cmsname: Node-RED
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '321591353'
+- cmsname: motionEye (camera)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-923693877"
+- cmsname: Saia Burgess Controls – PCD
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1547576879"
+- cmsname: Arcadyan o2 box (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1479202414'
+- cmsname: D-Link (Network)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1081719753'
+- cmsname: Abilis (Network/Automation)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-166151761"
+- cmsname: Ghost (CMS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1231681737"
+- cmsname: Airwatch
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '321909464'
+- cmsname: Airwatch
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1153873472"
+- cmsname: Airwatch
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1095915848'
+- cmsname: Airwatch
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '788771792'
+- cmsname: Airwatch
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1863663974"
+- cmsname: KeyHelp (Keyweb AG)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1267819858"
+- cmsname: KeyHelp (Keyweb AG)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '726817668'
+- cmsname: GLPI
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1474875778"
+- cmsname: Netcom Technology
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '5471989'
+- cmsname: CradlePoint
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1457536113"
+- cmsname: MyASP
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-736276076"
+- cmsname: Intelbras SA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1343070146"
+- cmsname: Lenel
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '538585915'
+- cmsname: OkoFEN Pellematic
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-625364318"
+- cmsname: SimpleHelp (Remote Support)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1117165781'
+- cmsname: GraphQL
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1067420240"
+- cmsname: DNN (CMS)
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1465479343"
+- cmsname: Apple
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1232159009'
+- cmsname: Apple
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1382324298'
+- cmsname: Apple
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1498185948"
+- cmsname: ISPConfig
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '483383992'
+- cmsname: Microsoft Outlook
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1249852061"
+- cmsname: Hikvision IP Camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '999357577'
+- cmsname: IP Camera
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '492290497'
+- cmsname: AfterLogicWebMail系统
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-194791768"
+- cmsname: B2Bbuilder
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '492941040'
+- cmsname: 深信服下一代防火墙管理系统
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '123821839'
+- cmsname: 深信服WEB防篡改管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - WEB防篡改
+  - cgi-bin/tamper_admin.cgi
+- cmsname: YApi 可视化接口管理平台
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - YApi
+  - id="yapi"
+  - prd
+  - 可视化接口管理平台
+- cmsname: JumpServer 堡垒机
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1162630024"
+- cmsname: WeiPHP
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - weiphp.css
+  - weiphp
+  - Public/static
+- cmsname: Nagios XI
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Nagios XI
+  - nagiosxi
+  - Nagios
+- cmsname: ShowDoc
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1969934080'
+- cmsname: 群晖 NAS
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - DiskStation
+  - webman/modules
+  - NAS
+- cmsname: 协达OA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1850889691"
+- cmsname: 山石网科 防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Hillstone
+  - licenseAggrement
+  - GLOBAL_CONFIG.js
+- cmsname: 360天堤新一代智慧防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 360天堤
+  - '360'
+  - 360防火墙
+- cmsname: 360网神防火墙系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - resources/image/logo_header.png
+  - '360'
+  - 网神防火墙系统
+- cmsname: 网神SecGate 3600防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 网神SecGate
+  - 3600防火墙
+  - css/lsec/login.css
+- cmsname: 蓝盾防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 蓝盾
+  - Bluedon
+  - default/js/act/login.js
+- cmsname: LanProxy
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - LanProxy
+  - password
+  - lanproxy-config
+- cmsname: ManageEngine ADManager Plus
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ADManager
+  - Hashtable.js
+  - ManageEngine
+- cmsname: phpshe 商城系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Powered by phpshe
+  - include/js/global.js
+- cmsname: 骑士 74CMS
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 74cms
+  - qscms.root
+  - index.php
+- cmsname: Apache2 Debian 默认页
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Apache2 Debian Default
+  - It works!
+  - Debian Logo
+- cmsname: Grafana
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Grafana
+  - login
+  - grafana-app
+- cmsname: Canal Admin
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Canal Admin
+  - js/app
+- cmsname: IBOS酷办公OA系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - IBOS
+  - login-panel
+  - loginsubmit
+- cmsname: 若依(RuoYi)-管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ry-ui
+  - username
+  - rememberme
+- cmsname: 中新金盾信息安全管理系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 中新金盾信息安全管理系统
+  - login
+  - useusbkey
+- cmsname: 中成科信 综合管理平台
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1632964065'
+- cmsname: VMware vCenter
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - VMware
+  - ID_VISDK
+  - download
+- cmsname: AWS S3 Bucket
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - InvalidBucketName
+  - aliyuncs
+- cmsname: 网心云设备
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 网心云设备
+  - favicon.png
+- cmsname: 深信服 NGAF
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - SANGFOR
+  - NGAF
+  - login
+- cmsname: IBM HTTP Server
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - IBM HTTP Server
+  - Support
+- cmsname: nps
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - nps
+  - ehang
+  - login
+- cmsname: Webmin
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Webmin
+  - session_login
+- cmsname: 群晖 DiskStation
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - DiskStation
+  - 文件服务器
+  - modules
+- cmsname: 锐捷 SSLVPN
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - SSLVPN
+  - rjweb
+  - login
+- cmsname: 蜂网企业流控云路由器
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ifw8
+  - 企业级流控云路由器
+  - login
+- cmsname: 网御 安全网关
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 安全系统
+  - 网御星云
+  - login
+- cmsname: Citrix Access Gateway
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Citrix Access Gateway
+  - login
+- cmsname: 深信服安全感知平台
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 安全感知平台
+  - login.js
+  - apps
+- cmsname: Apache2 Ubuntu 默认页
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Apache2 Ubuntu Default Page
+  - ubuntu-logo.png
+- cmsname: 帆软报表-FineReport
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ReportServer
+  - "=fs"
+- cmsname: CAS 单点登录
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Central Authentication Service
+  - cas/login
+- cmsname: 海康威视 流媒体管理服务器
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 流媒体管理服务器
+  - MSHTML
+  - login
+- cmsname: noVNC 远程访问
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - noVNC
+  - "<span>no</span>"
+  - host
+- cmsname: MessageSolution Enterprise Email Archiving (EEA)
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - MessageSolution
+  - index.jsp
+- cmsname: 阿里巴巴otter manager
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Otter Manager
+  - channelList
+- cmsname: VMware vRealize Operations Manager
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - vRealize
+  - VMware
+  - Identity Manager
+- cmsname: H3C-ER3200 路由器
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ER3200
+  - home.asp
+  - h3c.com
+- cmsname: 安恒云堡垒机
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - DBAPPSecurity
+  - 安恒云堡垒机
+- cmsname: Citrix 虚拟桌面
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1272756243"
+- cmsname: SeaweedFS
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1210969935'
+- cmsname: FreeRDP 远程RDP工具
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2052468252"
+- cmsname: Apache ActiveMQ
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1766699363'
+- cmsname: Apache-Skywalking
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1929532064'
+- cmsname: Parallels Default page
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1050786453"
+- cmsname: Plesk 面板
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-134375033"
+- cmsname: DzzOffice 开源办公系统
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1961736892"
+- cmsname: 网康科技网关/防火墙
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '5471989'
+- cmsname: ThinkPHP
+  typename: header
+  method: GET
+  request: /
+  response:
+  - ThinkPHP
+- cmsname: SuperMap iServer Web Manager
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1740191553'
+- cmsname: 协众OA
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-1466673461"
+- cmsname: Jellyfin
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - "-2069226242"
+- cmsname: 孚盟云 CRM
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1533124028'
+- cmsname: 协众OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - scripts/cnoa.extra.js
+- cmsname: FastAdmin 框架
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - assets/img/favicon.ico
+  - bootstrap.min.css
+  - navbar-toggle
+- cmsname: FastAdmin 框架
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ajax\/upload
+  - assets/img/favicon.ico
+  - fastadmin
+- cmsname: imo云办公室
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - <a title="imo云办公室"
+- cmsname: imo云办公室
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 高效率网上办公平台
+  - imo_setup.exe
+- cmsname: 永中DCS
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>永中文档在线预览DCS</title>"
+  - www.yozodcs.com
+- cmsname: JeecgBoot
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - JeecgBoot
+  - polyfill_
+- cmsname: 帆软数据决策系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ">数据决策系统"
+  - ReportServer?op
+- cmsname: 金山TimeOn云杀毒
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>TimeOn"
+  - iepngfix/iepngfix_tilebg.js
+- cmsname: 金山终端安全
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 终端安全系统
+  - setup/kanclient.exe
+  - iepngfix/iepngfix_tilebg.js
+- cmsname: 微擎 - 公众平台自助引擎
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 微擎 - 公众平台自助引擎
+  - www.w7.cc
+  - login
+- cmsname: Jspxcms
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "- Powered by Jspxcms"
+  - template/
+- cmsname: WordPress
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - wp-admin
+  - wp-content/
+- cmsname: WordPress
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - wp-
+  - wp-content/themes/
+- cmsname: 金合OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Jhsoft.Web.login
+  - PassWord.aspx
+- cmsname: 好视通视频会议系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 用户登录
+  - resources/commonImage/favicon.ico
+  - login/createQRCode.do
+- cmsname: LANMP 默认页面
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>LANMP"
+  - "<strong>恭喜"
+  - wdlinux.cn
+  - 本页可删除
+- cmsname: CentOS 默认页面
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>Welcome to CentOS</title>"
+  - img/centos-logo.png
+  - centos.org
+- cmsname: 百度 ueditor编辑器
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - ueditor.all.js
+  - UE.getEditor
+- cmsname: 蓝凌EIS智慧协同平台
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "/scripts/jquery.landray.common.js"
+  - 蓝凌软件
+- cmsname: phpinfo
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - "<title>phpinfo"
+  - Virtual Directory Support
+- cmsname: Kyan 监控设备
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - login_files
+  - platform
+  - 欢迎登陆系统
+- cmsname: Hue 大数据框架
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - Welcome to Hue
+  - Query. Explore.
+  - login
+- cmsname: 亿邮邮件系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - eYou
+  - q=login
+  - tpl/user
+- cmsname: 网神下一代极速防火墙
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - 网神信息技术
+  - login
+  - 防火墙
+- cmsname: 中腾OA
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - systemAction
+  - zt_webframe
+  - login
+- cmsname: TVT 公司产品
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '492290497'
+- cmsname: 资产灯塔系统
+  typename: favicon
+  method: GET
+  request: /
+  response:
+  - '1708240621'
+- cmsname: WinWebMail邮件系统
+  typename: keyword
+  method: GET
+  request: /
+  response:
+  - images/hrefbt.css
+  - WinWebMail
