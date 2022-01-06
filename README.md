@@ -8,8 +8,5 @@ https://www.vulnspy.com/cn-thinkphp-5.x-rce/
 
 **Click the `VSPLATE GO` button to launch a demo online / 点击`VSPLATE GO`按钮创建在线环境**
 
-https://stg4-m.lifeapp.pingan.com.cn/m/foundation-env-config/pajgj_app_env_config.json
-http://218.17.112.111/hystrix.stream
-http://218.17.112.36/api/health
-https://pacas.pa18.com/cas/PA002/TMSV2_CORE_OUTER/login
+
 
