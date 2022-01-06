@@ -1,3 +1,7 @@
+https://stg4-m.lifeapp.pingan.com.cn/m/foundation-env-config/pajgj_app_env_config.json
+http://218.17.112.111/hystrix.stream
+http://218.17.112.36/api/health
+https://pacas.pa18.com/cas/PA002/TMSV2_CORE_OUTER/login
 finger:
 - cmsname: seeyon
   typename: keyword
